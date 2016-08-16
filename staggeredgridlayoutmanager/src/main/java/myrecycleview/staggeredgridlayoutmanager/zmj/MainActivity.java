@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         SpacesItemDecoration decoration = new SpacesItemDecoration(16);
         recyclerView.addItemDecoration(decoration);
         //
+
     }
 
     private void initData() {
