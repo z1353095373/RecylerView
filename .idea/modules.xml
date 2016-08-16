@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyRecycleView.iml" filepath="$PROJECT_DIR$/MyRecycleView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staggeredgridlayoutmanager/staggeredgridlayoutmanager.iml" filepath="$PROJECT_DIR$/staggeredgridlayoutmanager/staggeredgridlayoutmanager.iml" />
+    </modules>
+  </component>
+</project>
